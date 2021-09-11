@@ -1,0 +1,20 @@
+{
+	"name": "order_performer",
+	"version": "0.0.1",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"test": "node ./bin/index.js"
+	},
+	"bin": {
+		"gp-cli": "./bin/index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^6.2.0",
+		"inquirer": "^7.3.3",
+		"open": "^8.2.1",
+		"ora": "^5.4.1"
+	}
+}
